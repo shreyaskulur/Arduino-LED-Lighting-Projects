@@ -1,3 +1,7 @@
+/*
+ * Program to control RGB LED or LED strip using serial comands
+ * Author : Shreyas K
+ */
 class LED
 {
   int redLed, greenLed, blueLed; //output pins
